@@ -5,7 +5,7 @@
 #
 # Name          : Artem Litkovskyi
 # Collaborators : -
-# Time spent    : 3.5 hours
+# Time spent    : 4.5 hours
 
 import math
 import random
